@@ -42,28 +42,8 @@ python hand_sign_recognition.py
 
 Using the GUI:
 The main window displays the real-time feed from your webcam.
-Detected hand sign will be displayed along with the recognized character, word, and sentence.
+Detected hand sign and the recognized character, word, and sentence will be displayed.
 Use the suggestion buttons to complete words based on recognized characters.
-
-**File Structure**
-
-hand-sign-recognition/
-│
-├── Models/
-│   ├── model_new.json
-│   ├── model_new.h5
-│   ├── model-bw_dru.json
-│   ├── model-bw_dru.h5
-│   ├── model-bw_tkdi.json
-│   ├── model-bw_tkdi.h5
-│   └── model-bw_smn.json
-│   └── model-bw_smn.h5
-│
-├── hand_sign_recognition.py
-├── requirements.txt
-├── README.md
-└── .gitignore
-
 
 **Acknowledgements**
 
