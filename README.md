@@ -22,7 +22,7 @@ TensorFlow/Keras
 **Installation**
 
 Clone the repository:
-git clone https://github.com/your-username/hand-sign-recognition.git
+git clone https://github.com/piyu-priyanshu/hand-sign-recognition.git
 cd hand-sign-recognition
 
 Create a virtual environment (optional but recommended):
